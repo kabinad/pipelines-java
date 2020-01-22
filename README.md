@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/KabinadTeshagerMercury/HandsOn1/_apis/build/status/kabinad.pipelines-java?branchName=master)](https://dev.azure.com/KabinadTeshagerMercury/HandsOn1/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
